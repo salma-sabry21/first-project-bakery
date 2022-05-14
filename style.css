@@ -1,0 +1,121 @@
+/*navbar*/
+body
+{
+    height: 10000px;
+}
+.setting
+{
+    
+    height: 80px;
+    width: 40px;
+    position: fixed;
+    top: 200px;
+    right: 0px;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius:0px  ;
+    background-color: #fff ;
+    z-index: 9999;
+    color: gray;
+}
+.cart
+{
+    width: 40px;
+    position: fixed;
+    top: 250px;
+    right: 0px;
+    border-radius: 5px;
+    background-color: #fff ;
+    z-index: 9999;
+    color: gray;
+    
+
+}
+.navbar
+{
+    background-color: transparent;
+}
+.navbar img {
+    width: 170px;
+}
+
+.navbar .navbar-nav .nav-item .nav-link
+{
+    color: #fff;
+}
+.navbar .navbar-nav .nav-item  :hover
+{
+    color: #ae9768;
+}
+.a-home
+{
+    color: #fff !important;
+}
+.font-main
+{
+    font-family: 'Alegreya', serif;
+    font-size: 18px;
+    margin-right: 15px;
+}
+
+
+
+.layer{
+    background-color: rgba(0, 0, 0, .2);
+    width: 100%;
+    height: 100vh;
+}
+.header
+{
+    background-image: url(images/drew-coffman-1872.jpg);
+    background-position: center center;
+    background-size: cover ;
+    height: 85vh;  
+}
+.p1-size
+{
+    font-size: 22px;
+}
+.h1-size
+{
+    font-size: 76px;
+}
+.p2-size
+{
+    font-size: 24px;
+    width: 750px;
+}
+.btn-main
+{
+    padding: 15px 25px;
+}
+.btn-color1
+{
+    background-color: #ae9768;
+    border-color: transparent;
+}
+.btn-color2
+{
+    background-color: transparent;
+    border: #fff solid 2px;
+}
+.btn-color1:hover 
+{
+    background-color: #fff;
+    color: black;
+    border-color: transparent;
+}
+.btn-color2:hover 
+{
+    background-color: #fff;
+    color: black;
+    border-color: transparent;
+}
+
+
+/*.home
+{
+    background-image: url(images/drew-coffman-1872.jpg);
+    background-position: center center;
+    background-size: cover ;
+    height: 100vh;
+}
