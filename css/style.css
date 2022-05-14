@@ -129,3 +129,33 @@ body
     color: #303030;
 }
 
+/* section_2 */
+
+
+.whoweare h2
+{
+    color: #303030;
+    font-family: "Alegreya"
+}
+.whoweare p
+{
+    line-height: 30px;
+}
+.icon
+{
+    width: 45px;
+    height: 45px;
+    margin-right: 10px;
+    border: #b1aeae solid 1px;
+    border-radius: 50% ;
+}
+.whoweare li i
+{
+    color: #8e7754;
+
+}
+.whoweare li p
+{
+    margin-top: 10px;
+}
+
