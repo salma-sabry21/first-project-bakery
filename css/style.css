@@ -175,7 +175,13 @@ section
 /* ----------End offer section---------- */
 /* ------------------- */
 /* ----------Start gallery section---------- */
-
+#Gallery p{
+    font-size: 18px;
+    color: #686868;
+}
+#Gallery h4{
+    color: #303030;
+}
 /* ----------End gallery section---------- */
 /* ------------------- */
 /* ----------Start blog section---------- */
